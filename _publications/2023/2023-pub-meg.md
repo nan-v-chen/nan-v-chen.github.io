@@ -1,6 +1,6 @@
 ---
 title: "Association between cognitive impairments and aberrant dynamism of overlapping brain sub-networks in unmedicated major depressive disorder: A resting-state MEG study"
-date: 2023-01-01 00:01:00 +0100
+date: 2023-01-01 00:12:00 +0100
 selected: false
 pub: "Journal of Affective Disorders, "
 pub_date: "2023"
